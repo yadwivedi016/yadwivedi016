@@ -10,7 +10,7 @@
 - 🎓 I'm currently pursuing a Master's in Computer Applications (MCA)
 - 💻 Passionate about Python, Django, and React
 - 🌱 Actively learning full-stack development and software engineering practices
-- 🎯 Focused on building practical skills and real-world applications
+- 🎯 Focused on building practical skills and real-world applications<br>
 <b>Application:</b> https://expense-tracker-mocha-seven-30.vercel.app/
 ---
 
